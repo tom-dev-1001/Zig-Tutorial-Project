@@ -44,7 +44,7 @@ Included modules:
 
 **Variables.zig** - Variable declarations, mutability, types, arrays and slices, conversion  
 **loops.zig** - for loops, while loops  
-**branching.zig** - if expressions, switch statements
+**branching.zig** - if expressions, switch statements  
 **functions.zig** - Function declarations, Parameters, Return values
 
 structs.zig
