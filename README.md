@@ -42,15 +42,7 @@ Each topic lives in its own file and demonstrates a specific area of Zig.
 
 Included modules:
 
-Variables.zig
-- Variable declarations
-- Constants vs mutable variables
-- Integer types
-- Overflows
-- Arrays and slices
-- Optionals
-- Type conversion
-
+\bVariables.zig - Explaining variable types, declaration, conversion and usage  
 loops.zig
 - for loops
 - while loops
