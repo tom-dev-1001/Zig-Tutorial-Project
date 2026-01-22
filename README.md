@@ -1,4 +1,4 @@
-***Zig Tutorial Project***
+**Zig Tutorial Project**
 
 This repository is a hands-on Zig tutorial project designed to demonstrate
 core Zig concepts through executable examples.
