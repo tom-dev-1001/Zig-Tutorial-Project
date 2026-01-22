@@ -42,21 +42,10 @@ Each topic lives in its own file and demonstrates a specific area of Zig.
 
 Included modules:
 
-**Variables.zig** - Variable declarations, mutability, types, arrays and slices, conversion
-loops.zig - for loops
-- while loops
-- range-based iteration
-
-branching.zig
-- if expressions
-- switch statements
-- compile-time branching
-
-functions.zig
-- Function declarations
-- Parameters
-- Return values
-- Void vs non-void functions
+**Variables.zig** - Variable declarations, mutability, types, arrays and slices, conversion  
+**loops.zig** - for loops, while loops  
+**branching.zig** - if expressions, switch statements
+**functions.zig** - Function declarations, Parameters, Return values
 
 structs.zig
 - Struct definitions
