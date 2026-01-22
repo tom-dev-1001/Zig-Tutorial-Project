@@ -44,11 +44,7 @@ Included modules:
 
 **Variables.zig** - Explaining variable types, declaration, conversion and usage  
 **loops.zig** - Explaining for loops, while loops  
-
-branching.zig
-- if expressions
-- switch statements
-- compile-time branching
+**branching.zig** - if expressions, switch statements, compile-time branching
 
 functions.zig
 - Function declarations
