@@ -42,11 +42,8 @@ Each topic lives in its own file and demonstrates a specific area of Zig.
 
 Included modules:
 
-\bVariables.zig - Explaining variable types, declaration, conversion and usage  
-loops.zig
-- for loops
-- while loops
-- range-based iteration
+**Variables.zig** - Explaining variable types, declaration, conversion and usage  
+**loops.zig** - Explaining for loops, while loops  
 
 branching.zig
 - if expressions
