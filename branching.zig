@@ -2,24 +2,18 @@ const std = @import("std");
 const print = std.debug.print;
 
 
-pub fn run() void
-{
+pub fn run() void {
 	showIfStatements();
 	showSwitches();
 }
 
 //if syntax:
 //same as c:
-//   if (true)
-//   {
+//   if (true) {
 
-//   }
-//   else if (false)
-//   {
+//   } else if (false) {
 
-//   }
-//   else
-//  {
+//   } else {
 
 //  }
 
