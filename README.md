@@ -1,5 +1,7 @@
 **Zig Tutorial Project**
+
 ---
+
 This repository is a hands-on Zig tutorial project designed to demonstrate
 core Zig concepts through executable examples.
 
@@ -7,6 +9,7 @@ The project is structured as a collection of self-contained modules, each
 focused on a specific language feature. The main entry point allows you to
 enable or disable individual sections to explore them one at a time.
 
+---
 
 PROJECT GOAL
 
