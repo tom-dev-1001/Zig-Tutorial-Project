@@ -58,19 +58,11 @@ Included modules:
 **OpeningFiles.zig** - File IO, Reading files, Error handling with IO
 **threading.zig** - Basic threading concepts, mutexes and parameters  
 **optionals.zig** - Optional types, null handling, Safe unwrapping
+**input.zig** - Reading user input, Handling stdin
+**output.zig** - Printing, Debug output
+**Floats.zig** - Floating point types, Precision considerations
 
-input.zig
-- Reading user input
-- Handling stdin
-
-output.zig
-- Printing
-- Debug output
-
-Floats.zig
-- Floating point types
-- Precision considerations
-
+---
 
 RUNNING THE PROJECT
 
