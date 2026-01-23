@@ -22,6 +22,7 @@ It focuses on:
 - Showing how Zig behaves in practice
 - Exploring language features in isolation
 
+---
 
 PROJECT STRUCTURE
 
@@ -38,6 +39,7 @@ Example usage:
 - Observe the output
 - Move on to the next topic
 
+---
 
 TUTORIAL MODULES
 
@@ -79,6 +81,7 @@ To explore a topic:
 - Comment out the others
 - Run the program again
 
+---
 
 DESIGN NOTES
 
@@ -87,6 +90,7 @@ DESIGN NOTES
 - Many examples intentionally print types and values to show Zig behavior
 - Error cases are demonstrated explicitly rather than hidden
 
+---
 
 INTENDED AUDIENCE
 
@@ -95,6 +99,7 @@ This project is aimed at:
 - Developers coming from C / C++ / Rust
 - Anyone who prefers learning by running real code
 
+---
 
 STATUS
 
