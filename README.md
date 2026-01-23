@@ -59,7 +59,7 @@ Included modules:
 **threading.zig** - Basic threading concepts, mutexes and parameters  
 **optionals.zig** - Optional types, null handling, Safe unwrapping
 **input.zig** - Reading user input, Handling stdin
-**output.zig** - Printing, Debug output
+**output.zig** - Printing, Debug output  
 **Floats.zig** - Floating point types, Precision considerations
 
 ---
