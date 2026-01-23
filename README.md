@@ -17,7 +17,7 @@ This project is intended as a practical learning resource rather than a
 theoretical overview.
 
 It focuses on:
-- Explicitness over magic
+- Syntax explanation
 - Real code that runs
 - Showing how Zig behaves in practice
 - Exploring language features in isolation
@@ -48,51 +48,16 @@ Included modules:
 **Variables.zig** - Variable declarations, mutability, types, arrays and slices, conversion  
 **loops.zig** - for loops, while loops  
 **branching.zig** - if expressions, switch statements  
-**functions.zig** - Function declarations, Parameters, Return values
-
-structs.zig
-- Struct definitions
-- Field access
-- Struct initialization
-
-errors.zig
-- Error unions
-- Error handling with catch
-- Explicit error propagation
-
-allocation.zig
-- Allocators
-- Heap vs stack allocation
-- Manual memory management
-
-arrayLists.zig
-- Dynamic arrays
-- ArrayList usage
-- Capacity vs length
-
-pointers.zig
-- Pointer basics
-- Const vs mutable pointers
-- Dereferencing
-
-comptime.zig
-- Compile-time execution
-- comptime parameters
-- Compile-time logic
-
-OpeningFiles.zig
-- File IO
-- Reading files
-- Error handling with IO
-
-threading.zig
-- Basic threading concepts
-- Interaction with shared data
-
-optionals.zig
-- Optional types
-- null handling
-- Safe unwrapping
+**functions.zig** - Function declarations, Parameters, Return values  
+**structs.zig** - Struct definitions, Field access, Struct initialization, passing by reference vs value  
+**errors.zig** - Error unions, Error handling with catch, try and if  
+**allocation.zig** - Allocators, Heap vs stack allocation, Defer  
+**arrayLists.zig** - Dynamic arrays, ArrayList usage and syntax
+**pointers.zig** - Pointer basics, Const vs mutable pointers, Dereferencing  
+**comptime.zig** - Generic, comptime code execution and logic
+**OpeningFiles.zig** - File IO, Reading files, Error handling with IO
+**threading.zig** - Basic threading concepts, mutexes and parameters  
+**optionals.zig** - Optional types, null handling, Safe unwrapping
 
 input.zig
 - Reading user input
